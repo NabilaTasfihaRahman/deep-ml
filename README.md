@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 13 problems · 0 labs · 2 math
+**16** solved · 14 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-11 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-11 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-15 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-27 | [solution](problems/0151-dropout-layer) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-15 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-11 | [solution](problems/0007-matrix-transformation) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-15 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
