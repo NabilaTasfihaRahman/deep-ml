@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:32:43.322Z",
+  "generated_at": "2026-10-02T18:32:45.421Z",
   "items": {
     "math:1": {
       "kind": "math",
@@ -256,6 +256,58 @@
       "last_pushed_at": "2026-09-29T23:26:26.967Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:1235": {
+      "kind": "problem",
+      "id": "1235",
+      "title": "SGD with Momentum Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1235",
+      "path": "problems/1235-sgd-with-momentum-step",
+      "first_solved_at": "2026-10-01T01:22:49.630Z",
+      "last_pushed_at": "2026-10-01T01:22:49.630Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2026-10-01T01:49:46.054Z",
+      "last_pushed_at": "2026-10-01T01:49:46.054Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:89": {
+      "kind": "problem",
+      "id": "89",
+      "title": "The Pattern Weaver's Code",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/89",
+      "path": "problems/0089-the-pattern-weaver-s-code",
+      "first_solved_at": "2026-10-01T02:18:12.861Z",
+      "last_pushed_at": "2026-10-01T02:18:12.861Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2026-10-01T02:47:10.633Z",
+      "last_pushed_at": "2026-10-01T02:47:10.633Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
