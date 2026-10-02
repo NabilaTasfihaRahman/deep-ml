@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 22 problems · 0 labs · 2 math
+**26** solved · 24 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-15 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-27 | [solution](problems/0151-dropout-layer) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-10-01 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-02 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-29 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-29 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-15 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
@@ -32,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-29 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-10-01 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-02 | [solution](problems/0094-implement-multi-head-attention) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-01 | [solution](problems/0085-positional-encoding-calculator) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-09-15 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 
