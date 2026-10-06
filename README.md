@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 27 problems · 0 labs · 2 math
+**30** solved · 28 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-05 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-05 | [solution](problems/0114-implement-global-average-pooling) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-09-29 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-06 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-11 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-05 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-09-15 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
