@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 29 problems · 0 labs · 2 math
+**32** solved · 29 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-02 | [solution](problems/0094-implement-multi-head-attention) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-01 | [solution](problems/0085-positional-encoding-calculator) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-09-15 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-10-06 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
