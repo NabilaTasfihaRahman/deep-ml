@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 43 problems · 1 labs · 2 math
+**47** solved · 44 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-29 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-15 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-11 | [solution](problems/0007-matrix-transformation) |
+| [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-10 | [solution](problems/1129-merge-multiple-dataframes) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-15 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-29 | [solution](problems/0025-single-neuron-with-backpropagation) |
