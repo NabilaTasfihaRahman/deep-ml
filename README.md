@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**58** solved · 50 problems · 1 labs · 7 math
+**59** solved · 50 problems · 1 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-13 | [solution](math/0010-matrix-multiplication) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-13 | [solution](math/0014-orthogonality-and-projections) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-13 | [solution](math/0013-solving-linear-systems) |
+| [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-13 | [solution](math/0016-eigendecomposition-and-svd) |
 
 ---
 
