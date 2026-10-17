@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 54 problems · 1 labs · 8 math
+**64** solved · 55 problems · 1 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-29 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-10-01 | [solution](problems/0089-the-pattern-weaver-s-code) |
+| [Transfer Weights from Linear-Style to Parameter-Style Self-Attention](https://www.deep-ml.com/problems/964) | medium | 2026-10-17 | [solution](problems/0964-transfer-weights-from-linear-style-to-parameter-style-self-attention) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-06 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Zero-Copy Batch Data Loading from Shared Memory](https://www.deep-ml.com/problems/659) | medium | 2026-10-11 | [solution](problems/0659-zero-copy-batch-data-loading-from-shared-memory) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-02 | [solution](problems/0094-implement-multi-head-attention) |

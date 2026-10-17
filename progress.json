@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:31:03.202Z",
+  "generated_at": "2026-10-17T19:54:41.277Z",
   "items": {
     "math:1": {
       "kind": "math",
@@ -803,6 +803,19 @@
       "last_pushed_at": "2026-10-15T03:31:02.040Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:964": {
+      "kind": "problem",
+      "id": "964",
+      "title": "Transfer Weights from Linear-Style to Parameter-Style Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/964",
+      "path": "problems/0964-transfer-weights-from-linear-style-to-parameter-style-self-attention",
+      "first_solved_at": "2026-10-17T19:54:40.375Z",
+      "last_pushed_at": "2026-10-17T19:54:40.375Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
